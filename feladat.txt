@@ -1,0 +1,11 @@
+1, Készíts egy programot, amelyben van egy Negyzet nevű osztály.
+Attribútuma legyen az oldal hossza.
+Rendelkezzen továbbá a kerület és terület számításra is egy-egy metódussal!
+
+2, Készíts egy programot, amely objektumorientált módon tartja nyilván kutyák adatait (név, életkor, nem)! A nevét a felhasználó adja meg, az életkorát és a nemét véletlenszerűen határozza meg a
+program! Befejezésként a program a képernyőre írja ki a megadott kutyák adatait!
+
+3, Hozz létre egy Diak nevű osztályt. Attribútumai: név, osztály, születési év. Az egyik metódusa
+állapítsa meg az aktuális év és a születési év alapján a diák életkorát, a másik metódusa pedig adjon
+vissza egy sztringet, amelyben mondatszerűen szerepelnek a diák adatai: Szia, Kiss Péter vagyok, a
+10.A osztályba járok, 16 éves vagyok.
